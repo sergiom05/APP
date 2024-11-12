@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FitGenial</string>
+
+    <string name="Open">Abrir</string>
+    <string name="Close">Cerrar</string>
+    <string name="workout_timer">Temporizador de Entrenamiento</string>
+    <string name="profile_creation">Creación de Perfil</string>
+    <string name="calorie_calculator">Calculadora de Calorías</string>
+    <string name="calorie_tracker">Rastreador de Calorías</string>
+    <string name="training_splits">Divisiones de Entrenamiento</string>
+    <string name="_60">60</string>
+    <string name="calories_taken">Calorías Consumidas = 0 KCAL</string>
+    <string name="calories">Calorías</string>
+    <string name="kcal">KCAL</string>
+    <string name="reset">REINICIAR</string>
+    <string name="enter_age">Ingrese Edad</string>
+    <string name="enter_height_in_cm">Ingrese Altura (en cm)</string>
+    <string name="enter_weight_in_kg">Ingrese Peso (en kg)</string>
+    <string name="enter_gender">Ingrese Género</string>
+
+    <array name="gender">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Prefiero no decir</item>
+    </array>
+</resources>
